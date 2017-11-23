@@ -1,0 +1,28 @@
+{
+  "name": "tb-social-flickr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toroback/tb-social-flickr.git"
+  },
+  "keywords": [
+    "toroback",
+    "backend",
+    "social",
+    "flickr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toroback/tb-social-flickr/issues"
+  },
+  "homepage": "https://github.com/toroback/tb-social-flickr#readme",
+  "dependencies": {
+    "flickr-sdk": "^3.5.0"
+  }
+}
